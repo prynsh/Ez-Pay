@@ -7,8 +7,8 @@ export const authOptions = {
       CredentialsProvider({
           name: 'Phone Number',
           credentials: {
-            phone: { label: "Phone number", type: "text", placeholder: "Phone number", required: true },
-            password: { label: "Password", type: "password", placeholder:"Password",required: true }
+            phone: { label: "Phone number", type: "text", placeholder: "Phone Number", required: true },
+            password: { label: "Password", type: "password",placeholder: "Password", required: true }
           },
           // TODO: User credentials type from next-aut
           async authorize(credentials: any) {
