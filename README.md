@@ -56,9 +56,19 @@ This page allows users to add money to their wallet using webhooks.
 
 This page displays all transactions made by the user.
 
+![Transactions Page](./txn.png)
+
+### Transfer
+
+This page comprises an add money component and displays the updated balance.
+
+![Transfer Page](./transfer.png)
+
 ### P2P Transfer
 
-This page enables users to send money to other users who have an account on the application.
+This page allows users to transfer money to other users in the application.
+
+![P2P Transfer Page](./p2p.png)
 
 ## Getting Started
 
