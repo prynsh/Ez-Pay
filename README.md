@@ -42,29 +42,29 @@ The project follows a monorepo structure managed by Turborepo. The primary techn
 
 - **Tailwind CSS**: A utility-first CSS framework used for styling the application.
 
-### Pages
+## Pages
 
-## Dashboard
+- **Dashboard**
 
 The dashboard provides an overview of the user's balance.
 
-## Add Money
+- **Add Money**
 
 This page allows users to add money to their wallet using webhooks.
 
-## Transactions
+- **Transactions**
 
 This page displays all transactions made by the user.
 
 ![Transactions Page](./txn.png)
 
-## Transfer
+- **Transfer**
 
 This page comprises an add money component and displays the updated balance.
 
 ![Transfer Page](./transfer.png)
 
-## P2P Transfer
+- **P2P Transfer**
 
 This page allows users to transfer money to other users in the application.
 
